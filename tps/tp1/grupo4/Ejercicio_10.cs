@@ -1,4 +1,4 @@
-﻿class Ejercicio_1
+﻿class Ejercicio_10
 {
     static void Main()
     {
