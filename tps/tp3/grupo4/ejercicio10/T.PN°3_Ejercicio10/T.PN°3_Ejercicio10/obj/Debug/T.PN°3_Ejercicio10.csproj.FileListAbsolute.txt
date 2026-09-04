@@ -1,0 +1,10 @@
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_3\T.PN°3_Ejercicio10\T.PN°3_Ejercicio10\bin\Debug\T.PN°3_Ejercicio10.exe.config
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_3\T.PN°3_Ejercicio10\T.PN°3_Ejercicio10\bin\Debug\T.PN°3_Ejercicio10.exe
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_3\T.PN°3_Ejercicio10\T.PN°3_Ejercicio10\bin\Debug\T.PN°3_Ejercicio10.pdb
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_3\T.PN°3_Ejercicio10\T.PN°3_Ejercicio10\obj\Debug\T.PN°3_Ejercicio10.csproj.AssemblyReference.cache
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_3\T.PN°3_Ejercicio10\T.PN°3_Ejercicio10\obj\Debug\T.PN_3_Ejercicio10.Form1.resources
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_3\T.PN°3_Ejercicio10\T.PN°3_Ejercicio10\obj\Debug\T.PN_3_Ejercicio10.Properties.Resources.resources
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_3\T.PN°3_Ejercicio10\T.PN°3_Ejercicio10\obj\Debug\T.PN°3_Ejercicio10.csproj.GenerateResource.cache
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_3\T.PN°3_Ejercicio10\T.PN°3_Ejercicio10\obj\Debug\T.PN°3_Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_3\T.PN°3_Ejercicio10\T.PN°3_Ejercicio10\obj\Debug\T.PN°3_Ejercicio10.exe
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_3\T.PN°3_Ejercicio10\T.PN°3_Ejercicio10\obj\Debug\T.PN°3_Ejercicio10.pdb
