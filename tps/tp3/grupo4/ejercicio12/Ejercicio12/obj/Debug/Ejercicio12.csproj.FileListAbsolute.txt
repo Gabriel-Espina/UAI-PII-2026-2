@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\tp3 csharp\Ejercicio 12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+C:\Users\Admin\Documents\tp3 csharp\Ejercicio 12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+C:\Users\Admin\Documents\tp3 csharp\Ejercicio 12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+C:\Users\Admin\Documents\tp3 csharp\Ejercicio 12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\tp3 csharp\Ejercicio 12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.Form1.resources
+C:\Users\Admin\Documents\tp3 csharp\Ejercicio 12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.Properties.Resources.resources
+C:\Users\Admin\Documents\tp3 csharp\Ejercicio 12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\tp3 csharp\Ejercicio 12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\tp3 csharp\Ejercicio 12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+C:\Users\Admin\Documents\tp3 csharp\Ejercicio 12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb
