@@ -1,0 +1,7 @@
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_6\T.PN°6_ejecicio4\T.PN°6_ejecicio4\bin\Debug\T.PN°6_ejecicio4.exe.config
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_6\T.PN°6_ejecicio4\T.PN°6_ejecicio4\bin\Debug\T.PN°6_ejecicio4.exe
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_6\T.PN°6_ejecicio4\T.PN°6_ejecicio4\bin\Debug\T.PN°6_ejecicio4.pdb
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_6\T.PN°6_ejecicio4\T.PN°6_ejecicio4\obj\Debug\T.PN°6_ejecicio4.csproj.AssemblyReference.cache
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_6\T.PN°6_ejecicio4\T.PN°6_ejecicio4\obj\Debug\T.PN°6_ejecicio4.csproj.CoreCompileInputs.cache
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_6\T.PN°6_ejecicio4\T.PN°6_ejecicio4\obj\Debug\T.PN°6_ejecicio4.exe
+C:\Users\NSX\OneDrive\Escritorio\Programación 2026\2_Cuatri\Clase_6\T.PN°6_ejecicio4\T.PN°6_ejecicio4\obj\Debug\T.PN°6_ejecicio4.pdb
